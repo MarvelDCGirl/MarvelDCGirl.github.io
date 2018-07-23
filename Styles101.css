@@ -1,0 +1,21 @@
+/* STYLES101.CSS: HERE IS WHERE YOUR PAINTERS' STAY; WHERE YOU CUSTOMIZE/DESIGN AND COLOR YOUR HOUSE */
+
+
+body {
+     font-family: 'Open Sans' , sans-serif;
+}
+
+#Title {
+  
+}
+
+
+
+
+.header-links {
+  list-style: none;
+}
+
+#portfolio {
+  text-decoration: none;
+}
